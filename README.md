@@ -4,8 +4,7 @@ How to find location using geonear with mongodb
 
 # Created by ?
 
-Bayu Waskita, Backend Programmer Divisi Web
-PT. GITS Indonesia
+Bayu Waskita
 
 # Created at ?
 
